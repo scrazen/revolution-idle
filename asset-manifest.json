@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/revolution-idle/static/css/main.a750d62e.chunk.css",
+    "main.js": "/revolution-idle/static/js/main.a25c2501.chunk.js",
+    "main.js.map": "/revolution-idle/static/js/main.a25c2501.chunk.js.map",
+    "runtime-main.js": "/revolution-idle/static/js/runtime-main.a665e8a0.js",
+    "runtime-main.js.map": "/revolution-idle/static/js/runtime-main.a665e8a0.js.map",
+    "static/js/2.9df32ff4.chunk.js": "/revolution-idle/static/js/2.9df32ff4.chunk.js",
+    "static/js/2.9df32ff4.chunk.js.map": "/revolution-idle/static/js/2.9df32ff4.chunk.js.map",
+    "index.html": "/revolution-idle/index.html",
+    "precache-manifest.e25efbc7777d61afa0d0de1fa5cb70b0.js": "/revolution-idle/precache-manifest.e25efbc7777d61afa0d0de1fa5cb70b0.js",
+    "service-worker.js": "/revolution-idle/service-worker.js",
+    "static/css/main.a750d62e.chunk.css.map": "/revolution-idle/static/css/main.a750d62e.chunk.css.map",
+    "static/media/logo.svg": "/revolution-idle/static/media/logo.25bf045c.svg"
+  }
+}
